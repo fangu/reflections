@@ -1,0 +1,5 @@
+lession_1_reflections.txt
+why use git?
+what's the diff between git and other version control system
+what is the relationships between git vs. commit, diff, clone, log, repository. 
+what is operates-on, part-of, type-of

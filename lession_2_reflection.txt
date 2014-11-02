@@ -1,0 +1,3 @@
+lession_2_reflection.txt
+What happens when you initialize a repository? Why do you need to do it?
+	it generates a new .git folder, so the files will be under control by git
