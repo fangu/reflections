@@ -1,3 +1,21 @@
 lession_2_reflection.txt
 What happens when you initialize a repository? Why do you need to do it?
-	it generates a new .git folder, so the files will be under control by git
+Answer: it generates a new .git folder, so the files will be under control by git
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Answer: staging area is where you can include what u want to commit together
+
+How can you use the staging area to make sure you have one commit per logical change?
+Answer: git status, and git add the specific file, then git commit
+
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Answer: when developing something different in parallel and don't want to modify the master: features, bug, collaboration. master for public public, and branch for experiments
+
+How do the diagrams help you visualize the branch structure?
+Answer: to understand the parenting relationships of different commits within diff branches
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Answer: now git log shows all the commits.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
